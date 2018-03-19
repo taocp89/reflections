@@ -1,0 +1,2 @@
+this is new file #2
+with more than one line
